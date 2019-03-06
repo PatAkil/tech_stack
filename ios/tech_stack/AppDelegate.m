@@ -22,7 +22,7 @@
                                                       moduleName:@"tech_stack"
                                                initialProperties:nil
                                                    launchOptions:launchOptions];
-  rootView.backgroundColor = [UIColor blackColor];
+  rootView.backgroundColor = [UIColor whiteColor];
 
   self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
   UIViewController *rootViewController = [UIViewController new];
